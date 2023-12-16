@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm W A Roshantha Madubhashitha Wickramaarachchi</h1>
+<h1 align="center">Hi 👋, I'm Roshantha Madubhashitha </h1>
 <h3 align="center">A passionate undergraduate student from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Java and MySql**
