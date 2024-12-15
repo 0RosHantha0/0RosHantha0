@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roshantha Wickramaarachchi </h1>
 <h3 align="center">A passionate undergraduate student from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Java and MySql**
+- 🌱 I’m currently learning **Web Automation (Selenium - JAVA /Playwright - TS)**
 
-- 💬 Ask me about **Java, MySql**
+- 💬 Ask me about **Java, MySql, Software Testing**
 
 - 📫 How to reach me **roshantha3456@gmail.com**
 
