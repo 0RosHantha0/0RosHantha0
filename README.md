@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshantha Wickramaarachchi </h1>
-<h3 align="center">A passionate undergraduate student from Sri Lanka</h3>
+<h3 align="center">A passionate Software Quality Assurance Engineer - Intern from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Web Automation (Selenium - JAVA /Playwright - TS)**
+- 🌱 I’m currently learning **Web Automation (Cypress/Playwright - JS/TS)**
 
 - 💬 Ask me about **Java, MySql, Software Testing**
 
