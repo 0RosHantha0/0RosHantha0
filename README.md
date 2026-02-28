@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roshantha Wickramaarachchi </h1>
-<h3 align="center">A passionate Software Quality Assurance Engineer - Intern from Sri Lanka</h3>
+<h3 align="center">A passionate ISTQB Certified Associate Software Quality Assurance Engineer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Web Automation (Cypress/Playwright - JS/TS)**
+- 🌱 I’m currently learning **Web Automation (Playwright - JS/TS)**
 
-- 💬 Ask me about **Java, MySql, Software Testing**
+- 💬 Ask me about **Software Testing, SQL, Automation - Playwright, Performance Testing **
 
 - 📫 How to reach me **roshantha3456@gmail.com**
 
